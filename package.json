@@ -1,0 +1,15 @@
+{
+    "name": "api-mock",
+    "version": "1.0.0",
+    "description": "API Mock utilizando Node.js e Express com HTTPS",
+    "main": "index.js",
+    "scripts": {
+      "start": "node index.js"
+    },
+    "author": "Seu Nome",
+    "license": "ISC",
+    "dependencies": {
+      "express": "^4.18.2"
+    }
+  }
+  
